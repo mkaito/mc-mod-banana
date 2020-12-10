@@ -1,3 +1,5 @@
+[![](https://cf.way2muchnoise.eu/banana-for-scale.svg)](https://www.curseforge.com/minecraft/mc-mods/banana-for-scale)
+
 # Banana For Scale
 
 Ever wanted to measure your minecraft base in Bananas? Me neither. But now you can do it anyway.
