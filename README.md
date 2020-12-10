@@ -10,3 +10,5 @@ are between them, measured in International Average Bananas, IAB for short.
 
 There's also an edible banana that has a chance to make you float and glow
 a tiny bit.
+
+![](https://files.mkaito.net/d544a1480c873197e99c53beb05e1951ebce5969.png)
