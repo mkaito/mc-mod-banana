@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "bdb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "banana:banana"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "banana:banana_measure",
+    "count": 1
+  }
+}

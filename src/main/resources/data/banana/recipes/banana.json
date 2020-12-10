@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "x x",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "banana:banana",
+    "count": 8
+  }
+}

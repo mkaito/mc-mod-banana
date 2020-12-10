@@ -1,3 +1,6 @@
 {
-  "item.banana.banana": "Banana For Scale"
+  "item.banana.banana": "Banana",
+  "item.banana.banana.tooltip": "Has a random chance to make you glow or levitate.",
+  "item.banana.banana_measure": "Banana For Scale",
+  "item.banana.banana_measure.tooltip": "Shift right-click on one block, then right-click on another block."
 }
